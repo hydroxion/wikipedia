@@ -3,6 +3,7 @@ require 'rubygems'
 
 require 'httparty'
 
+
 class Wiki
 
 	def initialize (search = "Ruby", lang = "en")
@@ -11,6 +12,7 @@ class Wiki
 
 	end
 
+	
 	def take
 
 		# Error : #{}
@@ -21,6 +23,7 @@ class Wiki
 
 	end
 
+	
 	def find_lang (object, lang, result = [])
 
 		object.keys.each do |ky|
@@ -51,11 +54,13 @@ class Wiki
 
 end
 
+
 def Clear
 
 	system ("clear || cls")
 
 end
+
 
 ############ -
 
@@ -66,5 +71,6 @@ obj = Wiki.new(ARGV[0])
 print "\n\n #{obj.find_lang(obj.take, "pt")["value"]}\n\n"
 
 ############ -
+
 
 # Other link' here
