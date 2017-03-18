@@ -17,9 +17,7 @@ class Wiki
 
 		# Error : #{}
 
-		url = "http://dbpedia.org/data/"+@search.gsub(" ", "_")+".json"
-
-		uri = HTTParty.get(url)
+		uri = HTTParty.get("http://dbpedia.org/data/"+@search.gsub(" ", "_")+".json")
 
 	end
 
