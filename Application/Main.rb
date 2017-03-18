@@ -14,10 +14,8 @@ class Wiki
 
 	
 	def take
-
-		# Error : #{}
-
-		uri = HTTParty.get("http://dbpedia.org/data/"+@search.gsub(" ", "_")+".json")
+		
+		HTTParty.get("http://dbpedia.org/data/"+@search.to_s.gsub(" ", "_")+".json")
 
 	end
 
