@@ -24,3 +24,7 @@ Study
 		ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html
 
 		ruby-doc.org/core-2.4.0/String.html#method-i-chomp-21
+
+Running
+	
+	ruby Main.rb HTML ( Example ) 
