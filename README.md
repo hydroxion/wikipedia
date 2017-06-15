@@ -9,21 +9,23 @@ Dependences
 
 Study
 
-	www.youtube.com/watch?v=BmHKb0kLGtA ( En )
+[Using Db Pedia](https://www.youtube.com/watch?v=BmHKb0kLGtA) ( En )
 	
-	www.youtube.com/watch?v=b8xRVxAgknw ( Pt )
+[Bancos de Dados - No Sql e Big Data](https://www.youtube.com/watch?v=b8xRVxAgknw) ( Pt )
 
-	www.youtube.com/watch?v=03VmeD5t3Z0 ( Pt )
+[Db Pedia e Rdf - Bancos de Dados & Aplicações](https://www.youtube.com/watch?v=03VmeD5t3Z0) ( Pt )
 
-	Reading
+Reading
 		
-		pt.wikipedia.org/wiki/Linked_data
+[Linked Data](https://pt.wikipedia.org/wiki/Linked_data)
 
-		tutorialspoint.com/json/json_ruby_example.htm
+[Json Ruby Examples](http://www.tutorialspoint.com/json/json_ruby_example.htm)
 
-		ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html
+[Json Ruby Doc](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html)
 
-		ruby-doc.org/core-2.4.0/String.html#method-i-chomp-21
+[Strings Method In Ruby](http://ruby-doc.org/core-2.4.0/String.html#method-i-chomp-21)
+
+[Hash In Ruby](https://ruby-doc.org/core-2.2.0/Hash.html)
 
 Running
 	
