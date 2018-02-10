@@ -15,18 +15,6 @@
 
 [Db Pedia e Rdf - Bancos de Dados & Aplicações](https://www.youtube.com/watch?v=03VmeD5t3Z0) ( Pt )
 
-#### Reading
-		
-[Linked Data](https://pt.wikipedia.org/wiki/Linked_data)
-
-[Json Ruby Examples](http://www.tutorialspoint.com/json/json_ruby_example.htm)
-
-[Json Ruby Doc](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html)
-
-[Strings Method In Ruby](http://ruby-doc.org/core-2.4.0/String.html#method-i-chomp-21)
-
-[Hash In Ruby](https://ruby-doc.org/core-2.2.0/Hash.html)
-
 #### Running
 	
-	ruby Main.rb HTML ( Example ) 
+	ruby Main.rb HTML
