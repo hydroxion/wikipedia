@@ -58,15 +58,8 @@ def Clear
 end
 
 
-############ -
-
 Clear()
 
 obj = Wiki.new(ARGV[0])
 
 print "\n\n #{obj.find_lang(obj.take, "pt")["value"]}\n\n"
-
-############ -
-
-
-# Other link' here
